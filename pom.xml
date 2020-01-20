@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xxx.dop_parent</groupId>
+    <artifactId>dop_parent</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>dop_gitlabV4_api</module>
+        <module>dop_common</module>
+        <module>dop_interface</module>
+        <module>dop_backend</module>
+        <module>dop_service_provider</module>
+        <module>dop_jenkins_api</module>
+        <module>dop_soner_api</module>
+    </modules>
+
+
+</project>
